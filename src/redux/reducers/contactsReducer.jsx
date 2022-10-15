@@ -11,4 +11,3 @@ const contactsReducer = createReducer(initialState, {
 });
 
 export default contactsReducer;
-Footer
